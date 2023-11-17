@@ -17,6 +17,6 @@ Here are the goals and objectives for using this are pretty simple, they are:
         Discover the increase in the arcane users within' the planet archeros.
         Troubleshoot asteriod and planet fracking and how we import and export these resources to realms in need.
         Create a sentiment and theme analysis model for understanding the recurring motifs and ideas from procured documents.
-        Automated Lore Expansion of the Librarires of Xibir & perhaps likely, predictive plot development.
+        Automated Lore Expansion of the libraries of Xibir & perhaps likely, predictive plot development.
 
 Truth is-- we can be here all day figuring out what to do and how will we do it; so, let's go to business!
