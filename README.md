@@ -17,8 +17,15 @@ Here are the goals and objectives for using this are straightforward:
     - Troubleshoot asteroid and planet fracking and how we import and export these resources to realms in need. []
     - Create a sentiment and theme analysis model for understanding recurring motifs and ideas from procured documents. [✓]
     - Automated Lore Expansion of the Libraries of Xibir & perhaps predictive plot development. []
-- Created an prepared various datasets to use for fine-tuning and training. [✓]
+    - Created an prepared various datasets to use for fine-tuning and training. [✓]
 
-Huggingface: https://huggingface.co/niltheory
+## Operations Research
+
+For my IP/Lore-based operations research, please refer to the following resources:
+
+- [Operations Research Analyst Exercise](https://docs.google.com/spreadsheets/d/1ZFzcRn8IhKosznUzUKPDZ8scAxwK6t9F1pntHivHfpM/edit?usp=sharing)
+- [Economy Design Hellenia](https://docs.google.com/spreadsheets/d/1EvHgAz4NfHlQK1MWdSOF0Xh4iHi0bm0eQytyKxgZ3gw/edit?usp=sharing)
 
 Truth is—we can be here all day figuring out what to do and how to do it; so, let's get to business!
+
+Huggingface: https://huggingface.co/niltheory
