@@ -14,9 +14,12 @@ Here are the goals and objectives for using this are straightforward:
     - Learn more about the Godless and Godliving dichotomy. [✓]
         - (Includes: Interactive Map Creation, utilizing data visualization libraries.) []
     - Discover the increase in arcane users on the planet Archeros. []
-    - Troubleshoot asteroid and planet fracking and how we import and export these resources to realms in need. []
+        - Somewhat easy, this would use the same thing as the existence interactive python notebook.
+    - Troubleshoot asteroid and planet fracking and how we import and export these resources to realms in need. [✓]
+        - Next goal: let's turn it more into a ML game? User defines a specific goal, algorithm has to try to meet it. 
     - Create a sentiment and theme analysis model for understanding recurring motifs and ideas from procured documents. [✓]
     - Automated Lore Expansion of the Libraries of Xibir & perhaps predictive plot development. []
+        - Researching how to do this... 
     - Created an prepared various datasets to use for fine-tuning and training. [✓]
 
 ## Operations Research
