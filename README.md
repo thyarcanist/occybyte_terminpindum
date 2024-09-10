@@ -17,5 +17,8 @@ Here are the goals and objectives for using this are straightforward:
     - Troubleshoot asteroid and planet fracking and how we import and export these resources to realms in need. []
     - Create a sentiment and theme analysis model for understanding recurring motifs and ideas from procured documents. [✓]
     - Automated Lore Expansion of the Libraries of Xibir & perhaps predictive plot development. []
+- Created an prepared various datasets to use for fine-tuning and training. [✓]
+
+Huggingface: https://huggingface.co/niltheory
 
 Truth is—we can be here all day figuring out what to do and how to do it; so, let's get to business!
